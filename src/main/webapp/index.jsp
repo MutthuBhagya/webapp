@@ -11,8 +11,7 @@
       <img src="http://www.learntek.org/wp-content/uploads/2017/08/jenkins_image.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
-      <h2 class="text-center">Now you are with Narendra</h2>
-      <h3 class="text-center">This line is added by MutthuGouda Patil</h3>
+      <h2 class="text-center">Now you are with MutthuGouda and Bhagyashree</h2>
   </div>
 </body>
 </html>
