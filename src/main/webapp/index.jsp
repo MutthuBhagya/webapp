@@ -12,7 +12,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h1 class="text-center">My job is done with jenkins</h1>
       <h2 class="text-center">Now you are with MutthuGouda and Bhagyashree</h2>
-      <h1 class="text-center">This application is running through the Ansible Server.......!</h1>
+      <h3 class="text-center">This application is running through the Ansible Server.......!</h3>
   </div>
 </body>
 </html>
